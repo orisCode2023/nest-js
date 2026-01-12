@@ -1,0 +1,56 @@
+# compiled output
+simple-app/dist
+simple-app/node_modules
+simple-app/build
+simple-app/.prettierrc
+# Logs
+simple-app/logs
+simple-app/*.log
+simple-app/npm-debug.log*
+simple-app/pnpm-debug.log*
+simple-app/yarn-debug.log*
+simple-app/yarn-error.log*
+simple-app/lerna-debug.log*
+
+# OS
+simple-app/.DS_Store
+
+# Tests
+simple-app/coverage
+simple-app/.nyc_output
+
+# IDEs and editors
+simple-app/.idea
+simple-app/.project
+simple-app/.classpath
+simple-app/.c9/
+simple-app/*.launch
+simple-app/.settings/
+simple-app/*.sublime-workspace
+
+# IDE - VSCode
+simple-app/.vscode/*
+simple-app/!.vscode/settings.json
+simple-app/!.vscode/tasks.json
+simple-app/!.vscode/launch.json
+simple-app/!.vscode/extensions.json
+
+# dotenv environment variable files
+simple-app/.env
+simple-app/.env.development.local
+simple-app/.env.test.local
+simple-app/.env.production.local
+simple-app/.env.local
+
+# temp directory
+simple-app/.temp
+simple-app/.tmp
+
+# Runtime data
+simple-app/pids
+simple-app/*.pid
+simple-app/*.seed
+simple-app/*.pid.lock
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+simple-app/report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
